@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Old MCG</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="jquery-mobile-theme/themes/ClafHacksTeamTheme.min.css" />
+	<link rel="stylesheet" href="jquery-mobile-theme/themes/jquery.mobile.icons.min.css" />
+	<link rel="stylesheet" href="jquery-mobile-theme/themes/jquery.mobile.custom.structure.css" />
+	<link rel="stylesheet" href="jquery-mobile-theme/themes/jquery.mobile.custom.structure.min.css" />
+
+</head>
+<body>
+
+<!--########################### HOME PAGE ########################################## -->
+	<div data-role="page" id="home" data-theme="b">
+		<div data-role="header">
+			<h1>The Old Medical College of Georgia</h1>
+			<div data-role="navbar" data-grid="d">
+				<ul>
+					<li><a href="#home" data-icon="home" data-transition="fade">Home</a></li>
+					<li><a href="#gradison" data-icon="gear" data-transition="fade">Gradison Harris</a></li>
+					<li><a href="#ghost" data-icon="info" data-transition="fade">Ghost Stories</a></li>
+					<li><a href="#history" data-icon="clock" data-transition="fade">History</a></li>
+					<li><a href="#founders" data-icon="user" data-transition="fade">Founders</a></li>
+				</ul>
+			</div>
+		</div>
+		<div data-role="main" class="ui-content">
+			<h1>Plan Your Visit to the Old Medical College of Georgia</h1>
+			<p>The Old Medical College of Georgia, a National Historic Landmark, is located at <b>598 Telfair Street</b>. <br>
+			<img src="Images/augusta.png">The structure is easy to view from the sidewalk and is within the boundaries of the Augusta Downtown Historic District.<br>
+			It is open for self-guided tours by <b><i>appointment only</i>, Monday-Friday, 9:00am to 12:00 noon</b>.<br>
+			Call <b>706-854-0924</b>. Free.<br>
+			The Old Medical College has been documented by the <b>National Park Service's Historic American Buildings Survey</b>.
+			</p>
+		</div>
+		<div data-role="footer">
+			<h1> Old MCG | ClafHacks &copy; 2014</h1>
+		</div>
+	</div>
+
+<!--########################### Gradison PAGE ########################################## -->
+	<div data-role="page" id="gradison" data-theme="b">
+		<div data-role="header">
+			<h1>The Old Medical College of Georgia</h1>
+			<div data-role="navbar" data-grid="d">
+				<ul>
+					<li><a href="#home" data-icon="home" data-transition="fade">Home</a></li>
+					<li><a href="#gradison" data-icon="gear" data-transition="fade">Gradison Harris</a></li>
+					<li><a href="#ghost" data-icon="info" data-transition="fade">Ghost Stories</a></li>
+					<li><a href="#history" data-icon="clock" data-transition="fade">History</a></li>
+					<li><a href="#founders" data-icon="user" data-transition="fade">Founders</a></li>
+				</ul>
+			</div>
+		</div>
+		<div data-role="main" class="ui-content">
+			<h1>“BONES IN THE BASEMENT” published in 1997 by Robert Blakely (Author), Judith M.</h1>
+			<p>  Harrington discusses this historical event.  An editorial review by the Library Journal states:  In 1989, workers restoring the Medical College of Georgia in Augusta made a grisly  discovery: over 9000 human bones/ remains of bodies autopsied by medical students and  faculty, were buried in the building's basement.  Blakely (director, Ctr. for Applied Research  in Anthropology, Georgia State Univ.)  began coordinating a study of the basement's contents  by a multidisciplinary team of archaeologists, anthropologists, historians, anatomists,  and ethnographers. They determined that more than 75 percent of the bones were  African American, silent testimony to the marginalization of Augusta's slave and free black  communities. Human dissection was illegal in Georgia until 1887, most of the cadavers  were certainly procured by grave robbers.
+			</p>
+		</div>
+		<div data-role="footer">
+			<h1> Old MCG | ClafHacks &copy; 2014</h1>
+		</div>
+	</div>
+
+	<!--########################### Ghost PAGE ########################################## -->
+	<div data-role="page" id="ghost" data-theme="b">
+		<div data-role="header">
+			<h1>The Old Medical College of Georgia</h1>
+			<div data-role="navbar" data-grid="d">
+				<ul>
+					<li><a href="#home" data-icon="home" data-transition="fade">Home</a></li>
+					<li><a href="#gradison" data-icon="gear" data-transition="fade">Gradison Harris</a></li>
+					<li><a href="#ghost" data-icon="info" data-transition="fade">Ghost Stories</a></li>
+					<li><a href="#history" data-icon="clock" data-transition="fade">History</a></li>
+					<li><a href="#founders" data-icon="user" data-transition="fade">Founders</a></li>
+				</ul>
+			</div>
+		</div>
+		<div data-role="main" class="ui-content">
+			<h1>Ghosts of The Old Georgia Medical Building</h1>
+			<p> Though most believe sightings of restless souls are thought to be merely extensions of the legend, there are those that claim the original Telfair Street building is still haunted by the souls whose rest was disturbed on orders of the college. A few have even claimed to see Grandison himself in the Cedar Grove Cemetery late at night, under the light of the full moon, digging into graves as he did in life. Occasionally, the random story will pop up about the college's current accommodations hosting the restless souls, but those in the know look toward Telfair Street for the truth. Local tour guides have taken photos containing numerous apparitions. Those that have ventured to the old site often refer to it as the most active building in all of Augusta. The grave of Grandison Harris is hidden somewhere in the Cedar Grove Cemetery, its location unknown to prevent angry relatives taking revenge. The cemetery itself, however, located across the street from Magnolia Cemetery, with its entrance on Walker Street. Headstones there date back to 1835. The old house on Telfair Street still stands, and is a stop along the "Augusta Ghost Walks" tour. They have taken pictures of floating ghostly orbs on the old campus at night. It is currently used for parties and by the occasional dance held by the local liberal arts high school, though most of the students have no idea that they are essentially dancing on a mass grave. Perhaps that is why Ghosts still haunt the old building. 
+			</p>
+		</div>
+		<div data-role="footer">
+			<h1> Old MCG | ClafHacks &copy; 2014</h1>
+		</div>
+	</div>
+
+<!--########################### History PAGE ########################################## -->
+	<div data-role="page" id="history" data-theme="b">
+		<div data-role="header">
+			<h1>The Old Medical College of Georgia</h1>
+			<div data-role="navbar" data-grid="d">
+				<ul>
+					<li><a href="#home" data-icon="home" data-transition="fade">Home</a></li>
+					<li><a href="#gradison" data-icon="gear" data-transition="fade">Gradison Harris</a></li>
+					<li><a href="#ghost" data-icon="info" data-transition="fade">Ghost Stories</a></li>
+					<li><a href="#history" data-icon="clock" data-transition="fade">History</a></li>
+					<li><a href="#founders" data-icon="user" data-transition="fade">Founders</a></li>
+				</ul>
+			</div>
+		</div>
+		<div data-role="main" class="ui-content">
+			<h1>Old Medical College of Georgia History</h1>
+			<p> The university was chartered in 1828 by the Medical Society of Augusta as the Medical Academy of Georgia to address the need to train new physicians and offer a single course of lectures leading to a bachelor's degree. The doors of the Medical Academy of Georgia opened in Augusta’s City Hospital located on two and a half acres of land at 124 Greene Street. Teaching began in two rooms of the hospital in 1826 with seven students and three faculty members. The college began with three programs: Anatomy and surgery, institutes and practices of medicine, and diseases of women and children, and materia medica, chemistry, and pharmacy. The school received the right to award a bachelor of medicine degree after students attended one-year course of lectures and clinical training. The next year, December 1829 the governor signed a legislative act altering the charter of 1828 by expanding the curriculum to two years, culminating in a doctor of medicine degree, and changed the school’s name to the Medical Institute of Georgia. The first commencement was held April 7, 1833 with four students graduating.</p>
+
+			<p>On December 20, 1833, the institution’s name was change to the Medical College of Georgia by the General Assembly to depict the school’s true status and mission, and for the next 80 years continued to operate with an emphasis on research and training physicians. </p>
+
+			<p>Old Medical College, a National Historic Landmark, was built in 1835 to serve as home to the Medical College of Georgia (MCG), the third-oldest medical college in the Southeast. Old Medical College is of national significance because of its impact on the medical instruction of physicians nationwide in the antebellum period and because its distinguished and well-trained faculty helped found the American Medical Association to regulate medical education standards. Located at 598 Telfair Street, the Old Medical College building was MCG’s first academic home. Designed by Charles B. Clusky, the original floor plans included a heating system, a laboratory on the western side of the building, a Roman cement facade, a skylight for the anatomy dissecting room and a grand hall down the center that divided two large lecture halls in the front area. An expansive rotunda and staircase divided the two grand halls. Construction lasted from 1834 to 1836. However, students and faculty moved into the unfinished building in January 1835. Construction costs totaled $14,567. In 1834, MCG sent Dr. Louis Alexander Dugas to Europe with $6,324 to purchase "an anatomical museum, chemical apparatus, and library." Starting in 1835, students had full use of the library. </p>
+			<p>During the deanship of Dr. Eve, the school expanded significantly and rapidly in matriculation of students. Between 1832 and 1840, the number of students grew from 27 to 54. This growth was marred by the death of the school’s founding father Dr. Antony in 1839 from yellow fever. Despite the loss, the school continued to prevail. By 1840, 100 students had graduated and were making names for themselves as competent physicians throughout Georgia and South Carolina.</p>
+
+			<!--
+			<p>The faculty changes and the recurring financial troubles plagued the Board of Trustees during the early 1840s. Despite changes and hardships, the quality of education remained exemplary. While many medical schools had only demonstrations and lectures with little or no dissecting this situation was not the case at the MCG. Despite occasional cadaver shortages, rarely were students forced to forego dissecting because of a complete lack of subjects. With this hands-on learning, the instruction in anatomy was far superior to most medical schools in the country. By 1844, there were 39 graduates as compared to 18 in 1841, and the number of students had jumped from 73 to 140.</p>
+
+			<p>The faculty purchased Grandison Harris, a slave from Charleston, S.C., in 1852 for $700. He worked for over 50 years for MCG as a janitor and resurrection man. </p>
+
+			<p>The college graduated 73 students in 1856, the largest class before the Civil War. After the 1859-1860 session, the faculty approved several improvements, such as cleaning the dissecting room and painting the exterior. The outbreak of the War led the school to close February 15, 1861, two weeks early. By October 1861, the events of the Civil War indicated to the remaining faculty and to the Board of Trustees that MCG would not open in the fall. Throughout the war, Confederate surgeons used the Medical College building as a headquarters and at times, it was also employed as a hospital</p>
+
+			<p>After a four-year hiatus, the school reopened on the first Monday of November in 1865 with 47 students - 44 Southern students and three Northern soldiers. In August 1873, MCG became the Medical Department of the University of Georgia. During the session of 1875-76, several women attended chemistry lectures, marking the first appearance of females in MCG classes.</p>
+
+			<p>During the session of 1881-1882, the Medical Department students uncharacteristically performed no dissections. The college instead relied on models for teaching. This problem was not unique to the Department, but to all medical schools in the United States. The school celebrated its 50th anniversary on commencement day Tuesday, February 28, 1882 at the Opera House.</p>
+
+			<p>MCG faculty and trustees continued to take strides to ensure a first-rate education. In 1893, they developed a three-year curriculum with annual sessions of six months instead of five. This trend occurred nationwide as medical schools sought to improve physicians' education. The change went into effect in fall 1893, and required new students to take three courses instead of two. Enrolled students who already had completed one term were not required to take three courses.</p>
+
+			<p>On March 6, 1912, the institution's board of trustees met for the last time. The school was now to be referred to solely as the Medical Department of the University of Georgia. When students departed for Christmas vacation in 1912, this event marked the last time medical classes were held in the 77 year old structure on Telfair Street. Many discoveries were made by faculty, including the first hysterectomy performed in the United States and the first documented case of sickle cell disease.</p>
+			
+			<p>Old Medical College served the school well into the Civil War period and beyond. It reverted to Richmond Academy in 1913 when the medical school moved its base to the Augusta Orphan Asylum building. Richmond Academy held classes in the Old Medical College from 1914 to 1926, after which the building stood vacant for five years. During the 1930s, it was used by civic and social organizations and housed a USO canteen during World War II. From 1948 until the late 1980s, the Sand Hills Garden Club preserved Old Medical College, and the Augusta Council of Garden Clubs later took it over. The space was used as an activity center for receptions, meetings, and banquets. The MCG Foundation began renovations to the building in 1988 as a conference and events center. The restored Old Medical College is referred to as the finest expression of the Greek Revival in Georgia. It was declared a National Historic Landmark in 1996.</p>
+			-->
+		</div>
+		<div data-role="footer">
+			<h1> Old MCG | ClafHacks &copy; 2014</h1>
+		</div>
+	</div>
+
+		<!--########################### Founders PAGE ########################################## -->
+	<div data-role="page" id="founders" data-theme="b">
+		<div data-role="header">
+			<h1>The Old Medical College of Georgia</h1>
+			<div data-role="navbar" data-grid="d">
+				<ul>
+					<li><a href="#home" data-icon="home" data-transition="fade">Home</a></li>
+					<li><a href="#gradison" data-icon="gear" data-transition="fade">Gradison Harris</a></li>
+					<li><a href="#ghost" data-icon="info" data-transition="fade">Ghost Stories</a></li>
+					<li><a href="#history" data-icon="clock" data-transition="fade">History</a></li>
+					<li><a href="#founders" data-icon="user" data-transition="fade">Founders</a></li>
+				</ul>
+			</div>
+		</div>
+		<div data-role="main" class="ui-content">
+			<h1>The Old MCG Dr. Milton Antony Chief Founder, Brief History</h1>
+			<p> In the early 1800's, most physicians in America had no formal degrees. Instead, they trained as apprentices for a few years to learn their trade. There were fewer than 100 physicians in Georgia. As the number of medical schools in the U.S. increased, so did the number of Georgia physicians with degrees. </p>
+			<p>In 1822, several Augusta area physicians organized the Medical Society of Augusta. They apparently hoped to start a school in Augusta, but no formal plans were drawn up by this group. </p>
+			<p>In 1826 Dr. Milton Antony, a leader in local medical circles, began to teach apprentices in two borrowed rooms of the City Hospital (opened in 1818). Dr. Antony had trained under the preceptor system, attending only one formal course of lectures at the University of Pennsylvania. He was unable to return for the second required term because of finances and so did not receive his degree. After about fifteen years of active practice in Georgia and Louisiana, he received his M.D. "ad eundum" in 1825 from the Medical College of South Carolina. </p>
+			<p>With strong local backing, Dr. Antony journeyed to Milledgeville, then the state capital, seeking a charter. The Medical Academy of Georgia was chartered by the State in an act that was signed into law on December 20, 1828, by then-Governor John Forsyth of Augusta. 
+
+			<p>The first class at the Academy began on October 1, 1829, in rooms of the City Hospital that had been renovated and equipped by the faculty at a cost of $457.13. There were seven students at that first session. </p>
+
+			<p>On December 19, 1829, the General Assembly authorized the school to grant the M.D. degree and changed the name to the Medical Institute of Georgia. The first formal commencement was held on April 7, 1833, with four graduates. It was also in 1833 that the school received its present name, the Medical College of Georgia. It was with this name that the first diplomas were engraved and awarded. </p>
+
+			<p>In 1834 construction of the stately Medical College building on Telfair Street was begun. The legislature, pleased with the progress of the school in Augusta, appropriated $10,000, along with 50 lots on the town common of Augusta to be sold, the proceeds to be paid over to the College. The city gave $5,000, in return for medical care for the city's prisoners and the poor at City Hospital. The remarkable domed building was occupied in 1835, completed in 1836, and served as the main teaching facility for the school until the end of 1912. </p>
+
+			<p>In January of 1913, the school moved to larger quarters in the Newton Building some distance away. The original Medical College of Georgia building, still standing today, has come to symbolize the entire institution. </p>
+
+			<p>The school grew and by the 1850s classes were large and well-attended--right up until December 20, 1860, when South Carolina seceded from the Union. Georgia took the same course on January 19, 1861. During the war the school was closed, and the Medical College building itself was converted into a military hospital. </p>
+
+			<p>MCG next held classes on November 6, 1865, with 47 students attending, including 3 Yankee soldiers. The first post-war commencement was held on February 24, 1866, with 9 students receiving degrees. It is a tribute to the strength and fortitude of the faculty of the College that they were able to reopen at all in the misery and deprivation of the post-war South. </p>
+			<!--
+			<p>On July 5, 1873, following negotiations, a loose agreement was struck between the Medical College of Georgia and the University of Georgia in Athens. From 1873 to 1950 the school was called "The Medical College of Georgia, being the Medical Department of the University of Georgia." </p>
+
+			<p>The first extant record of alumni organization was in 1891, when 15 alumni met to formally elect officers. </p>
+
+			<p>MCG received a "class A" rating in 1907, but medical education was generally in a sorry state in the early 1900s. In 1910 Abraham Flexner published a scathing report that struck death blows to many proprietary medical schools. He recommended the immediate closing of the Medical College of Georgia. The faculty and the legislature acted quickly to bring MCG up to national standards. Unfortunately, the following 20 years saw a steady decline in the quality of operation of the Medical Department. </p>
+
+			<p>In 1931 the dean resigned and many faculty followed. The Depression and Politics were in charge, not the educators. In 1833 the Board of Regents voted to close the Medical College. A storm of support failed to move the legislature until Mr. Roy V. Harris, Augusta legislator and long-time Speaker of the House of Representatives, managed to convince Governor Eugene Talmadge to change his vote on the Board of Regents. The other Regents soon saw the light and the school survived. </p>
+
+			<p>Nevertheless, in 1934 the AMA dropped the school from its "class A" list. In 1934 Dr. G. Lombard Kelly was named Dean and a massive program was undertaken to revitalize the College. Under his wise and vibrant leadership and with a strong base of support, the school returned to "class A" status in 1936. </p>
+
+			<p>World War II increased the demand for physicians, and brought a number of non-Georgians to Augusta. In 1945 the legislature authorized the construction of a badly needed new teaching hospital. Recognizing the difficulties involved in running a growing medical institution and a major hospital from Athens, leaders granted independent university status within the University System of Georgia in 1950. The traditional name, Medical College of Georgia, was restored to the 122-year-old school. Dr. Kelly was named the first President of MCG. </p>
+
+			<p>The new teaching hospital, Eugene Talmadge Memorial Hospital, opened in 1956, again in large part due to the efforts of Roy Harris in the General Assembly. </p>
+
+			<p>The early 1950s marked the emergence of MCG as a health sciences university. The nursing program begin in 1894 had evolved into a local hospital nursing school. In 1956 it merged with a nursing program at the University of Georgia, and became the School of Nursing. The medical technology program, in operation since 1937, became a baccalaureate program in 1955. A medical illustration program initiated in 1949 awarded its first M.S. degree in 1951. </p>
+
+			<p>Radiologic technology and medical record administration programs were established in 1962. Ph.D. programs were begun in 1963, which led to the establishment of a School of Graduate Studies in 1966. A School of Dentistry was approved in 1965, accepted its first students in 1969, and graduated its first DMDs in 1973. </p>
+
+			<p>An associated dental sciences program was started in 1967. The School of Allied Health Sciences combined this program with other disciplines in 1968, and grew to include nine major disciplines. A master of science in nursing program was started in 1968. Programs in physical therapy, occupational therapy, and respiratory therapy followed. A master of health education in many of these disciplines was approved in 1974. </p>
+
+			<p>The physical plant grew to include dozens of state-of-the-art facilities. It is difficult to believe that the very existence of this medical university was threatened so many times during its first 150 years. Despite its on-again off-again administrative relationship with the University of Georgia, a steady stream of UGA students have passed through MCG, creating a dual alumni loyalty that remains strong and unbreakable today.  </p>
+			</p>
+			-->
+		</div>
+		<div data-role="footer">
+			<h1> Old MCG | ClafHacks &copy; 2014</h1>
+		</div>
+	</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.mobile-1.4.4.js"></script>
+</body>
+</html>
